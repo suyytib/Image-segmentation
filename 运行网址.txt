@@ -1,0 +1,50 @@
+http://10.110.41.84:22
+
+lijin
+
+258000
+
+安全8888/98850f40
+
+/home/lijin/caijin
+
+/home/lijin/.local/lib/python3.8/site-packages
+
+scp /online/ lijin@10.110.41.84:/home/lijin/caijin/data
+
+scp -r root@103.153.138.166:/usr/local/lib/python3.9/site-packages/virtualenv /home/lijin/.local/lib/python3.8/site-packages
+
+Na|d71;m@()W
+/home/lijin/mambaforge/bin/conda install -c conda-forge mamba
+
+/home/lijin/mambaforge/bin/mamba
+
+conda config --set report_errors true
+
+wget https://www.python.org/ftp/python/3.9.5/Python-3.9.5.tgz --no-check-certificate
+
+pip3.9 install \home\lijin\caijin\data\virtualenv-20.26.2.tar
+
+pip3.8 install --user  -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+
+cd /root/data/online/online-study_Flask
+
+uwsgi --ini nb_uwsgi.ini &
+
+source /envs/nb/bin/activate
+
+ps aux|grep nginx
+
+Na.d7.1mW
+
+screen -S your_screen_name
+
+ctrl + a + d
+
+screen -r [会话ID|会话名称]
+
+screen -S your_screen_name -X quit
+
+rm -rf online
+
+git clone https://gitclone.com//github.com/suyytib/online.git

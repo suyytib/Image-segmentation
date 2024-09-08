@@ -1,0 +1,10 @@
+1、蓝图见文件夹blueprints，存放视图函数
+2、存放网站css,js,image见文件夹static
+3、存放网站html见文件夹templates
+4、主文件见app.py
+5、加载网站配置文件见config.py
+6、表单验证文件见forms.py
+7、修饰器文件见functool.py
+8、数据库表见model.py
+9、数据库配置模块见table_config.py
+10、uwsgi配置文件见nb_uwsgi.ini
